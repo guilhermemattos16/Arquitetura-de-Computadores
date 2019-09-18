@@ -1,0 +1,6 @@
+RDI = arg1, RSI = arg2, RDX = arg3, RCX = arg4
+
+gcc -no-pie -c main.c
+fasm modulo.asm modulo.o
+gcc -no-pie -o main main.o modulo.o
+./main
