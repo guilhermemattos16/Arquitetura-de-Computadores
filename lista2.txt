@@ -1,0 +1,21 @@
+1). Escreva funções em linguagem de montagem do 80386 que possam ser chamadas de um programa escrito em C para:
+
+	a). Converter um ângulo de graus para radianos (usando float);
+
+	b). Calcular o valor de um polinômio, dado o vetor de coeficientes e o valor de x (usando doubles);
+
+	c). Encontrar as raízes de uma equação de segundo grau, supondo que a != 0 e delta >= 0 (usando floats);
+
+	d). Calcular a média ponderada de um vetor de doubles;
+
+	e). Calcular a média geométrica de um vetor de floats (dica: use a função pow);
+
+	f). Calcular a média harmônica de um vetor de doubles;
+
+	g). Calcular o valor de uma potência cuja base é um float e o expoente é um inteiro sem sinal, utilizando multiplicações sucessivas;
+
+	h). Repetir o exercício anterior, sendo a base especificada como um double, utilizando o Algoritmo do Camponês Russo;
+
+	i). Calcular o valor de uma potência cuja base é um double e o expoente é um inteiro com sinal, usando uma das funções que você implementou anteriormente como auxiliar;
+
+	j). (Desafio) Calcular o valor de uma potência cuja base e expoente são ambos floats, sem usar qualquer outra função que não seja de sua autoria (dica: pesquise o funcionamento das instruções FRNDINT, F2XM1, FYL2X e FSCALE)
