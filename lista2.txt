@@ -1,6 +1,6 @@
 1). Escreva funções em linguagem de montagem do 80386 que possam ser chamadas de um programa escrito em C para:
 
-	a). Converter um ângulo de graus para radianos (usando float);
+ok	a). Converter um ângulo de graus para radianos (usando float);
 
 	b). Calcular o valor de um polinômio, dado o vetor de coeficientes e o valor de x (usando doubles);
 
